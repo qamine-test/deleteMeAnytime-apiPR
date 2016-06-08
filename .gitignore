@@ -1,5 +1,5 @@
 *.py[co]
-
+*jaimini*
 # Default development database
 devdata.db
 
